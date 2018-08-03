@@ -1,3 +1,5 @@
+# THIS IS MY TITANIC KAGGLE
+
 import numpy as np
 import pandas as pd
 
